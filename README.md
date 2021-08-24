@@ -1,3 +1,7 @@
+# Python implementation of GeneralizedDiffusionMap
+
+Work-in-progress Python implementation of the GeneralizedDiffusionMap by Banisch, Trstanova, Bittracher, Klus and Koltai (2017).
+
 # GeneralizedDiffusionMap
 
 "Generalised diffusion map" provides extensions of the diffusion maps construction. 
@@ -12,6 +16,4 @@ For more details see Banisch, Trstanova, Bittracher, Klus and Koltai 2017.
 		LKDmap: local kernel diffusion maps, allows to approximate the forward and backward 
 						Fokker–Planck operators of a large class of Ito diffusions
 					
-FlowVisualisation contains an example of an application of LKDmap to flow analysis. 				
-
-
+FlowVisualisation contains an example of an application of LKDmap to flow analysis.
